@@ -1,8 +1,6 @@
-Demo: [http://webjeda.com/cards](http://webjeda.com/cards)
+# Museum
 
-## Installation
-* Fork the repository
-* Go to settings and set Github Pages source as master.
-* Your new site should be ready.
+*Collection de mes découvertes tech*
+## A propos
 
-For more themes visit - [https://jekyll-themes.com](https://jekyll-themes.com)
+Etudiant en informatique, j'utlise cet espace pour archiver mes notes intéressantes ou bien des astuces trouvées au fil de mes projets scolaires, personnels ou professionels. 
