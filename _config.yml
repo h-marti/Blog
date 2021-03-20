@@ -55,5 +55,5 @@ plugins:
   - jekyll-seo-tag
   - jemoji
   - rouge
-  # - jekyll-sitemap
+  - jekyll-sitemap
 
