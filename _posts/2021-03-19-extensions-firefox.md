@@ -8,7 +8,7 @@ image: /images/extensions-firefox.jpg
 
 Firefox est mon navigateur préféré pour deux raisons : son respect de la vie privée et son catalogue d'extensions riche et ouvert.
 
-Parmis les extensions disponibles sur ce catalogue il y en a cinq que je ne peux que recommander pour leur simplicité et leur efficacité à faire respecter notre vie privée en navigant sur internet. Voici donc : ```Les cinq extensions Firefox que j'installe sur tous mes ordinateurs```.
+Parmis les extensions disponibles sur ce catalogue, il y en a cinq que je ne peux que recommander pour leur simplicité et leur efficacité à faire respecter notre vie privée en navigant sur internet. Voici donc : ```Les cinq extensions Firefox que j'installe sur tous mes ordinateurs```.
 
 ***
 
@@ -20,7 +20,7 @@ Parmis les extensions disponibles sur ce catalogue il y en a cinq que je ne peux
 
 uBlock est un bloqueur de publicité qui permet d'alléger le poids des pages web consultées. Terminées les publicités Amazon pour un paumeau de douche lumineux qui vous suivent depuis une recherche, un jour, "pour rigoler".
 
-**Attention** : Certains sites utilise la publicité pour rémunérer leur créateur ou les producteurs de contenu. Les créateurs Youtube par exemple ne pourraient pas continuer à vivre de leurs créations si personne de regardait de publicité avant leurs vidéos. ```Pensez-donc à désactiver l'extension sur les sites que vous souhaitez soutenir en cliquant sur le bouton bleu juste ici``` :
+**Attention** : Certains sites utilisent la publicité pour rémunérer leur créateur ou les producteurs de contenus. Les créateurs Youtube par exemple ne pourraient pas continuer à vivre de leurs créations si personne de regardait de publicité avant leurs vidéos. ```Pensez-donc à désactiver l'extension sur les sites que vous souhaitez soutenir en cliquant sur le bouton bleu juste ici``` :
 
 <div class="text-center">   
     <img src="/images/desactiver-uBlock.jpg" alt="Désactiver uBlock">
