@@ -102,12 +102,17 @@ Sur MacOS :
 
 {% highlight shell %}
 
+$ touch $HOME/.bash_profile
+$ echo "export SPICETIFY_INSTALL=\"$spicetify_install\"" >> $HOME/.bash_profile
+$ echo "export PATH=\"\$SPICETIFY_INSTALL:\$PATH\" >> $HOME/.bash_profile
+$ source $HOME/.bash_profile
 $ cd "$(dirname "$(spicetify -c)")/Themes/DribbblishDynamic"
 $ mkdir -p ../../Extensions
 $ cp dribbblish-dynamic.js ../../Extensions/.
 $ spicetify config extensions dribbblish-dynamic.js
 $ spicetify config current_theme DribbblishDynamic color_scheme dark
 $ spicetify config inject_css 1 replace_colors 1 overwrite_assets 1
+$ spicetify backup apply
 $ spicetify apply
 
 {% endhighlight %}
