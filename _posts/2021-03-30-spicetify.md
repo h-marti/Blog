@@ -24,7 +24,7 @@ Le projet se trouve à cette adresse : [https://github.com/khanhas/spicetify-cli
 
 Pour installer l'application il suffit de copier-coller une commande dans Powershell. Powershell c'est l'interface en ligne de commande de Windows. Pour l'ouvrir appuyez sur les touches Win+X. Sélectionnez Windows PowerShell. PowerShell s’ouvre.
 
-<div class="text-center mb-2">   
+<div class="text-center mb-2">
     <img src="/images/winXPowershell.jpg" alt="Menu Win+X" width="50%">
 </div>
 
@@ -40,7 +40,7 @@ $ Invoke-WebRequest -UseBasicParsing "https://raw.githubusercontent.com/khanhas/
 
 Sur MacOS comme sur Windows il y a une commande à executer. Pour cela, ouvrez l'application Terminal.
 
-<div class="text-center mb-2">   
+<div class="text-center mb-2">
     <img src="/images/terminalMac.jpg" alt="Terminal Mac" width="50%">
 </div>
 
@@ -51,7 +51,6 @@ Voici la commande à copier-coller (sans le dollar) :
 $ curl -fsSL https://raw.githubusercontent.com/khanhas/spicetify-cli/master/install.sh | sh
 
 {% endhighlight %}
-
 
 ## Choisir un theme
 
@@ -98,7 +97,7 @@ $ spicetify apply
 
 {% endhighlight %}
 
-Sur MacOS : 
+Sur MacOS :
 
 {% highlight shell %}
 
@@ -121,6 +120,6 @@ $ spicetify apply
 
 Et voilà !
 
-<div class="text-center mb-2">   
+<div class="text-center mb-2">
     <img src="/images/spicetify.png" alt="Terminal Mac">
 </div>

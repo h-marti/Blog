@@ -22,7 +22,7 @@ uBlock est un bloqueur de publicité qui permet d'alléger le poids des pages we
 
 **Attention** : Certains sites utilisent la publicité pour rémunérer leur créateur ou les producteurs de contenus. Les créateurs Youtube par exemple ne pourraient pas continuer à vivre de leurs créations si personne de regardait de publicité avant leurs vidéos. ```Pensez-donc à désactiver l'extension sur les sites que vous souhaitez soutenir en cliquant sur le bouton bleu juste ici``` :
 
-<div class="text-center">   
+<div class="text-center">
     <img src="/images/desactiver-uBlock.jpg" alt="Désactiver uBlock">
 </div>
 
@@ -60,7 +60,6 @@ Ce n'est plus un secret pour personne, Facebook vous suit partout ! Que vous uti
 
 Pour contrer cela, Firefox a mis en place le système des onglets contextuels qui permettent de limiter les interactions des sites web ouverts entre eux et avec le navigateur. Avec l'extension Facebook Container, Firefox s'occupera tout seul de placer les applications citées plus tôt dans un onglet contextuel dédié mais aussi de bloquer les traqueurs de Facebook sur le reste du web.
 
-
 ***
 
 ## Cookie AutoDelete
@@ -73,6 +72,6 @@ Cookie AutoDelete supprime tous les cookies à la fermeture d'un onglet. Pour l'
 
 Activez le nettoyage automatique en cliquant sur le bouton ```Nettoyage automatique``` et passez un site en liste blanche en cliquant sur... : ```Liste blanche```.
 
-<div class="text-center">   
+<div class="text-center">
     <img src="/images/cookie-autodelete-activer.jpg" alt="Activer Cookie AutoDelete">
 </div>
