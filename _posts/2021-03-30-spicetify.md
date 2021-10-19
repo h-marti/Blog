@@ -2,7 +2,7 @@
 layout: post
 title:  "Customiser Spotify avec Spicetify"
 date:   2021-03-30 12:00:00 +0530
-categories: posts
+categories: posts spotify spicetify
 image: /images/spicetify.png
 ---
 

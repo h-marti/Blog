@@ -2,7 +2,7 @@
 layout: post
 title:  "Mes extensions Firefox"
 date:   2021-03-19 21:00:00 +0530
-categories: posts
+categories: posts firefox
 image: /images/extensions-firefox.jpg
 ---
 

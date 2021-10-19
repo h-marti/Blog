@@ -2,7 +2,7 @@
 layout: post
 title:  "Réponse automatique dans Outlook avec Power Automate"
 date:   2021-10-18 12:00:00 +0530
-categories: posts
+categories: posts microsoft power app automate outlook
 image: /images/Power-automate.png
 ---
 
