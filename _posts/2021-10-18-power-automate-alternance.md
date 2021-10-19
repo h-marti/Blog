@@ -3,7 +3,7 @@ layout: post
 title:  "Réponse automatique dans Outlook avec Power Automate"
 date:   2021-10-18 12:00:00 +0530
 categories: posts
-image: /images/pfx.png
+image: /images/Power-automate.png
 ---
 
 Dans le cadre de mon alternance, je suis amené à être régulièrement absent de mon entreprise pour pouvoir suivre ma formation. Il me faut donc pour chaque jour de formation intégrer une entrée dans mon agenda afin de permettre aux personnes avec qui je suis amené à travailler de ne pas planifier de réunion à ces dates.
